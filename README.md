@@ -5,8 +5,8 @@
 - Link for sharing: https://github.com/Limpanfx/Project-AL
 # Information for team Project-AL
 
-**Code whatever you want in the empty files that end in ".py"**
-**Currently working on guns.lol project.**
+- **Code whatever you want in the empty files that end in ".py"**
+- **Currently working on guns.lol project.**
 
 # Our team
 
