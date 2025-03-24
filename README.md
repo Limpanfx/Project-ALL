@@ -10,5 +10,5 @@
 
 # Our team
 
-- **Beam** : https://discord.com/users/657696929135984640
-- **Limpan** : https://guns.lol/Limpan
+- **Beam** : https://discord.com/users/657696929135984640 - https://github.com/B-ea-m
+- **Limpan** : https://guns.lol/Limpan - https://github.com/Limpanfx
