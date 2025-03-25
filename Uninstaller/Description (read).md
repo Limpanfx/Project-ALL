@@ -9,4 +9,4 @@
 
 # Additions
 
-**If you want to make an uninstallation for a different game please make a folder for it to seperate it from other games.**
+**If you want to make an uninstallation for a different games or programs, please make a folder for it to seperate it from other games.**
