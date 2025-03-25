@@ -6,3 +6,7 @@
 
 - **One of the files is obvious and tells the individual running it what it is doing.**
 - **One deletes the files in secret, disguising itself as something else.**
+
+# Additions
+
+**If you want to make an uninstallation for a different game please make a folder for it to seperate it from other games.**
