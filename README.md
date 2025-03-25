@@ -2,7 +2,7 @@
 
 **Future great and outstanding development group project.**
 
-- Link for sharing: https://github.com/Limpanfx/Project-AL
+- Link for sharing: https://github.com/Limpanfx/Project-ALL
 # Information for team Project-ALL
 
 - **Code whatever you want in any language, but make sure to make a folder for it!**
