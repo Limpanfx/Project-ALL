@@ -1,3 +1,8 @@
 # Important
 
-**The batch/cmd files below are two different versions of the same file. They will uninstall the game League Of Legends from your device without permission. One prints the process and one prints other things to disguise itself.**
+**The batch/cmd files below are two different versions of the same file. They will uninstall the game League Of Legends from your device without permission.**
+
+# Versions
+
+- **One of the files is obvious and tells the individual running it what it is doing.**
+- **One deletes the files in secret, disguising itself as something else.**
