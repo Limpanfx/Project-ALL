@@ -4,6 +4,7 @@
 
 # Tools
 - https://github.com/NationalSecurityAgency/ghidra/releases - ghibra (what functions is a program running on the computer)
+- https://www.openwall.com/john/ - password cracker
 
 # Websites
 - https://whatsmyname.app/ - multi website username check
