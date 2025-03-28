@@ -1,6 +1,6 @@
 # Project-ALL
 
-**Project ALL is a project with a little of everything included.**
+**From now on, this project will be "everything and all" storage related and will work as a library for random topics and information.**
 
 - Link for sharing: https://github.com/Limpanfx/Project-ALL
 
