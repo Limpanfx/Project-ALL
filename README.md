@@ -1,14 +1,9 @@
 # Project-ALL
 
-**Future great and outstanding development group project.**
+**Project ALL is a project with a little of everything included.**
 
 - Link for sharing: https://github.com/Limpanfx/Project-ALL
-# Information for team Project-ALL
 
-- **Code whatever you want in any language, but make sure to make a folder for it!**
+# Credits
 
-# Our team
-
-- **Beam** : https://discord.com/users/657696929135984640 - https://github.com/B-ea-m
 - **Limpan** : https://guns.lol/Limpan - https://github.com/Limpanfx
-- **0xSpai** :  https://discord.com/users/454264645860196353 - https://github.com/0xspai
