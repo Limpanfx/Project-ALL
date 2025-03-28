@@ -16,6 +16,7 @@
 - https://www.revolut.com - virtual cards and one time cards
 
 # Protection
+- https://www.virustotal.com/gui/home/upload - file checkers, virus detector
 - https://haveibeenpwned.com/ - check for data breaches
 - https://www.torproject.org/ - anonymous onion browsing (dark web access, vpn recommended) 
 - https://www.malwarebytes.com - free malware check service
