@@ -18,3 +18,4 @@
 # Protection
 - https://haveibeenpwned.com/ - check for data breaches
 - https://www.torproject.org/ - anonymous onion browsing (dark web access, vpn recommended) 
+- https://www.malwarebytes.com - free malware check service
