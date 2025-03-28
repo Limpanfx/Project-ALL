@@ -19,3 +19,6 @@
 - https://haveibeenpwned.com/ - check for data breaches
 - https://www.torproject.org/ - anonymous onion browsing (dark web access, vpn recommended) 
 - https://www.malwarebytes.com - free malware check service
+- guard.io/lp - malicious website blocker
+- https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm - adblocker
+- https://bypass.city - linkvertise and other ad bypasser
