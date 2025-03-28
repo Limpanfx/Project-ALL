@@ -14,6 +14,6 @@
 # Virtual cards
 - https://www.revolut.com - virtual cards and one time cards
 
-# protection
+# Protection
 - https://haveibeenpwned.com/ - check for data breaches
 - https://www.torproject.org/ - anonymous onion browsing (dark web access, vpn recommended) 
