@@ -21,10 +21,11 @@
 - [Bypass.vip](https://bypass.vip) – Alternative to Bypass.city  
 
 ## 💳 Virtual Payment & Privacy Protection  
-- [Revolut](https://www.revolut.com) – Virtual and one-time-use payment cards  
+- [Revolut](https://www.revolut.com) – Virtual and one-time-use payment cards 
 
 ## 🔥 Malware & Threat Detection  
-- [VirusTotal](https://www.virustotal.com/gui/home/upload) – File scanner & virus detection  
+- [VirusTotal](https://www.virustotal.com/gui/home/upload) – Simple file scanner & virus detection
+- [Hybrid Analysis](https://www.hybrid-analysis.com) – Advanced malware analysis tool
 - [Malwarebytes](https://www.malwarebytes.com) – Free malware scanner  
 
 ## 🛡 Online Privacy & Security  
