@@ -1,3 +1,5 @@
+*All of the files listed below have been checked by me personally to not contain any malicious intent.*
+
 # File uploading
 - https://github.com 
 - https://easyupload.io - free 10 gb uploads
@@ -12,14 +14,25 @@
 - https://pimeyes.com/en - AI facial recognition
 - https://www.duplichecker.com/reverse-image-search.php - reverse image search (multiple engines)
 
-# Virtual cards
+# Bypassers
+- https://bypass.city - linkvertise and other ad bypasser
+- https://bypass.vip - bypass.city alternative
+  
+# Virtual payment cards
 - https://www.revolut.com - virtual cards and one time cards
 
-# Protection
+# Protection malware
 - https://www.virustotal.com/gui/home/upload - file checkers, virus detector
-- https://haveibeenpwned.com/ - check for data breaches
-- https://www.torproject.org/ - anonymous onion browsing (dark web access, vpn recommended) 
 - https://www.malwarebytes.com - free malware check service
+- https://haveibeenpwned.com/ - check for data breaches
+
+# Protection before infection
 - https://guard.io/lp - malicious website blocker
 - https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm - adblocker
-- https://bypass.city - linkvertise and other ad bypasser
+
+# VPN (virtual privacy networks) - free alternatives
+- https://www.tunnelbear.com/download - tunnelbear
+- https://windscribe.com/install/desktop/windows - windscribe
+
+# Browsers
+- https://www.torproject.org/ - anonymous onion browsing (dark web access, vpn recommended) 
