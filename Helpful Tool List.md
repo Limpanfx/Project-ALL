@@ -30,7 +30,8 @@
 
 ## 🛡 Online Privacy & Security  
 - [Guard.io](https://guard.io/lp) – Blocks malicious websites  
-- [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) – Ad and tracker blocker  
+- [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) – Ad and tracker blocker
+- [Whoer](https://whoer.net) – Check your IP address, VPN status, and anonymity level
 
 ## 🌍 Free VPN Services  
 - [TunnelBear](https://www.tunnelbear.com/download)  
