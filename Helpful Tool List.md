@@ -1,38 +1,39 @@
-*All of the files listed below have been checked by me personally to not contain any malicious intent.*
+# 🔹 Verified Tools & Resources  
+*All files and tools listed below have been personally checked and verified to be free from malicious intent.*  
 
-# File uploading
-- https://github.com 
-- https://easyupload.io - free 10 gb uploads
+## 📤 File Hosting & Uploading  
+- [GitHub](https://github.com) – Code & file hosting platform  
+- [EasyUpload](https://easyupload.io) – Free file sharing (up to 10 GB)  
 
-# Tools
-- https://github.com/NationalSecurityAgency/ghidra/releases - ghibra (what functions is a program running on the computer)
-- https://www.openwall.com/john/ - password cracker
+## 🛠 Security & Hacking Tools  
+- [Ghidra](https://github.com/NationalSecurityAgency/ghidra/releases) – Reverse engineering tool (analyzes program functions)  
+- [John the Ripper](https://www.openwall.com/john/) – Password cracking tool  
 
-# Websites
-- https://whatsmyname.app/ - multi website username check
-- https://hunter.io/search/?product_tour_id=389437 - get email address associated with domain
-- https://pimeyes.com/en - AI facial recognition
-- https://www.duplichecker.com/reverse-image-search.php - reverse image search (multiple engines)
-- https://haveibeenpwned.com/ - check for data breaches
+## 🔎 OSINT & Information Gathering  
+- [What's My Name](https://whatsmyname.app/) – Multi-site username checker  
+- [Hunter.io](https://hunter.io/search/?product_tour_id=389437) – Find email addresses linked to a domain  
+- [PimEyes](https://pimeyes.com/en) – AI-powered facial recognition  
+- [DupliChecker](https://www.duplichecker.com/reverse-image-search.php) – Reverse image search using multiple engines  
+- [Have I Been Pwned](https://haveibeenpwned.com/) – Check if your email/password has been leaked in data breaches  
 
-# Bypassers
-- https://bypass.city - linkvertise and other ad bypasser
-- https://bypass.vip - bypass.city alternative
-  
-# Virtual payment cards
-- https://www.revolut.com - virtual cards and one time cards
+## 🚀 Ad & Link Bypassing  
+- [Bypass.city](https://bypass.city) – Bypasses Linkvertise and other ad-based restrictions  
+- [Bypass.vip](https://bypass.vip) – Alternative to Bypass.city  
 
-# Protection malware
-- https://www.virustotal.com/gui/home/upload - file checkers, virus detector
-- https://www.malwarebytes.com - free malware check service
+## 💳 Virtual Payment & Privacy Protection  
+- [Revolut](https://www.revolut.com) – Virtual and one-time-use payment cards  
 
-# Protection before infection
-- https://guard.io/lp - malicious website blocker
-- https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm - adblocker
+## 🔥 Malware & Threat Detection  
+- [VirusTotal](https://www.virustotal.com/gui/home/upload) – File scanner & virus detection  
+- [Malwarebytes](https://www.malwarebytes.com) – Free malware scanner  
 
-# VPN (virtual privacy networks) - free alternatives
-- https://www.tunnelbear.com/download - tunnelbear
-- https://windscribe.com/install/desktop/windows - windscribe
+## 🛡 Online Privacy & Security  
+- [Guard.io](https://guard.io/lp) – Blocks malicious websites  
+- [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) – Ad and tracker blocker  
 
-# Browsers
-- https://www.torproject.org/ - anonymous onion browsing (dark web access, vpn recommended) 
+## 🌍 Free VPN Services  
+- [TunnelBear](https://www.tunnelbear.com/download)  
+- [Windscribe](https://windscribe.com/install/desktop/windows)  
+
+## 🕵️ Anonymous Browsing & Dark Web Access  
+- [Tor Browser](https://www.torproject.org/) – Onion routing for private browsing with darkweb inclution (*VPN recommended*)  
