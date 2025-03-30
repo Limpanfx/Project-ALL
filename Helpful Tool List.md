@@ -13,6 +13,7 @@
 - https://hunter.io/search/?product_tour_id=389437 - get email address associated with domain
 - https://pimeyes.com/en - AI facial recognition
 - https://www.duplichecker.com/reverse-image-search.php - reverse image search (multiple engines)
+- https://haveibeenpwned.com/ - check for data breaches
 
 # Bypassers
 - https://bypass.city - linkvertise and other ad bypasser
@@ -24,7 +25,6 @@
 # Protection malware
 - https://www.virustotal.com/gui/home/upload - file checkers, virus detector
 - https://www.malwarebytes.com - free malware check service
-- https://haveibeenpwned.com/ - check for data breaches
 
 # Protection before infection
 - https://guard.io/lp - malicious website blocker
