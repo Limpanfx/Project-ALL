@@ -1,9 +1,11 @@
-# Project-ALL
+# Project-ALL  
 
-**From now on, this project will be "everything and all" storage related and will work as a library for random topics and information.**
+**Project-ALL is a library for storing and organizing diverse topics and information. This project aims to be an all-in-one reference hub with organized information.**  
 
-- Link for sharing: https://github.com/Limpanfx/Project-ALL
+📌 **Repository:** [Project-ALL on GitHub](https://github.com/Limpanfx/Project-ALL)  
 
-# Credits
+## 📖 About  
+This project is designed to be a central storage for "everything and all". Whether it's code, tools, references, guides, or random insights, Project-ALL provides a structured way to view and retrieve valuable data.  
 
-- **Limpan** : https://guns.lol/Limpan - https://github.com/Limpanfx
+## 🎉 Credits  
+- **Limpan** – [Profile](https://guns.lol/Limpan) | [GitHub](https://github.com/Limpanfx) 
