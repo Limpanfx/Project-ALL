@@ -1,5 +1,5 @@
 # Netflix availability
-*Some anime are only available in a few parts of the world, and this list mentions those. Please use a (VPN)[https://github.com/Limpanfx/Project-ALL/blob/main/Helpful%20Tool%20List.md#-verified-tools--resources] to access these animes.*
+*Some anime are only available in a few parts of the world, and this list mentions those. Please use a [VPN](https://github.com/Limpanfx/Project-ALL/blob/main/Helpful%20Tool%20List.md#-verified-tools--resources) to access these animes.*
 
 # Japan:
 - Attack on Titan
