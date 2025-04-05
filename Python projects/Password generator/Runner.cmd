@@ -1,3 +1,3 @@
 @echo off
-python PasswordGenerator.py
+python PassGen.py
 Pause
