@@ -7,7 +7,8 @@
 
 ## 🛠 Security & Hacking Tools  
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra/releases) – Reverse engineering tool (analyzes program functions)  
-- [John the Ripper](https://www.openwall.com/john/) – Password cracking tool  
+- [John the Ripper](https://www.openwall.com/john/) – Password cracking tool
+- [Wifispc](https://wifispc.com/#near-me) - Check for wifi passwords in your location
 
 ## 🔎 OSINT & Information Gathering  
 - [What's My Name](https://whatsmyname.app/) – Multi-site username checker  
@@ -39,3 +40,6 @@
 
 ## 🕵️ Anonymous Browsing & Dark Web Access  
 - [Tor Browser](https://www.torproject.org/) – Onion routing for private browsing with darkweb inclution (*VPN recommended*)  
+
+## 📖 School and learning
+- [Cymath](https://www.cymath.com) – Solve math problems with explenation
