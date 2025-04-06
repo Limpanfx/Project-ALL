@@ -2,8 +2,9 @@
 *All files and tools listed below have been personally checked and verified to be free from malicious intent.*  
 
 ## 📤 File Hosting & Uploading  
-- [GitHub](https://github.com) – Code & file hosting platform  
-- [EasyUpload](https://easyupload.io) – Free file sharing (up to 10 GB)  
+- [GitHub](https://github.com) – Code & file hosting platform
+- [FilePizza](https://file.pizza) - 500 GB upload free
+- [EasyUpload](https://easyupload.io) – Free file sharing (up to 10 GB)
 
 ## 🛠 Security & Hacking Tools  
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra/releases) – Reverse engineering tool (analyzes program functions)  
@@ -33,6 +34,7 @@
 - [Guard.io](https://guard.io/lp) – Blocks malicious websites  
 - [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) – Ad and tracker blocker
 - [Whoer](https://whoer.net) – Check your IP address, VPN status, and anonymity level
+- [Pentester](https://pentester.com) - Digital footprint and leaks associated with email or website
 
 ## 🌍 Free VPN Services  
 - [TunnelBear](https://www.tunnelbear.com/download)  
