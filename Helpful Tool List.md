@@ -25,7 +25,7 @@
 ## 💳 Virtual
 - [Revolut](https://www.revolut.com) – Virtual and one-time-use payment cards 
 - [Temp mail](https://temp-mail.org) – Temporary mail addresses to use for sign-ups
-- 
+
 ## 🔥 Malware & Threat Detection  
 - [VirusTotal](https://www.virustotal.com/gui/home/upload) – Simple file scanner & virus detection
 - [Hybrid Analysis](https://www.hybrid-analysis.com) – Advanced malware analysis tool
