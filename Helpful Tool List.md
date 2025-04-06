@@ -43,5 +43,6 @@
 ## 🕵️ Anonymous Browsing & Dark Web Access  
 - [Tor Browser](https://www.torproject.org/) – Onion routing for private browsing with darkweb inclution (*VPN recommended*)  
 
-## 📖 School and learning
-- [Cymath](https://www.cymath.com) – Solve math problems with explenation
+## 📖 Daily life
+- [Cymath](https://www.cymath.com) – Solve math problems with explenation 
+- [SuperCook](https://www.supercook.com) – Check for recipes with ingredients you have at home
