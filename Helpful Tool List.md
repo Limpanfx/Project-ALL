@@ -28,6 +28,7 @@
 
 ## 🔥 Malware & Threat Detection  
 - [VirusTotal](https://www.virustotal.com/gui/home/upload) – Simple file scanner & virus detection
+- [Uncoverit](https://www.uncoverit.org) – VirusTotal alternative with extra webhooks and similar
 - [Hybrid Analysis](https://www.hybrid-analysis.com) – Advanced malware analysis tool
 - [Malwarebytes](https://www.malwarebytes.com) – Free malware scanner  
 
