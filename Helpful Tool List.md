@@ -45,8 +45,11 @@
 ## 🕵️ Anonymous Browsing & Dark Web Access  
 - [Tor Browser](https://www.torproject.org) – Onion routing for private browsing with darkweb inclution (*VPN recommended*)  
 
-# 🤖 Free time
-- [Sora](https://sora.com) – Powerful image generator 
+# 🤖 AI
+- [PentestGPT](https://https://pentestgpt.ai) - Helps with hacking
+- [Sora](https://sora.com) – Powerful image generator
+
+# ☀️ Free Time
 - [Tvgarden](https://tv.garden) – Free tv channels from all over the world
 - [Cymath](https://www.cymath.com) – Solve math problems with explenation 
 - [SuperCook](https://www.supercook.com) – Check for recipes with ingredients you have at home
