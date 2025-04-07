@@ -45,8 +45,9 @@
 ## 🕵️ Anonymous Browsing & Dark Web Access  
 - [Tor Browser](https://www.torproject.org) – Onion routing for private browsing with darkweb inclution (*VPN recommended*)  
 
-# 🤖 AI
-- [Sora](https://sora.com) – Powerful image generator
+# 🤖 Free time
+- [Sora](https://sora.com) – Powerful image generator 
+- [Tvgarden](https://tv.garden) – Free tv channels from all over the world
   
 ## 📖 Daily life
 - [Cymath](https://www.cymath.com) – Solve math problems with explenation 
