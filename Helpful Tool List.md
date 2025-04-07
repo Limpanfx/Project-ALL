@@ -46,7 +46,7 @@
 - [Tor Browser](https://www.torproject.org) – Onion routing for private browsing with darkweb inclution (*VPN recommended*)  
 
 ## 🤖 AI
-- [PentestGPT](https://https://pentestgpt.ai) - Helps with hacking
+- [PentestGPT](https://pentestgpt.ai) - Helps with hacking
 - [Sora](https://sora.com) – Powerful image generator
 
 ## ☀️ Free Time
