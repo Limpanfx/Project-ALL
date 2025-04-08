@@ -46,6 +46,7 @@
 - [Tor Browser](https://www.torproject.org) – Onion routing for private browsing with darkweb inclution (*VPN recommended*)  
 
 ## 🤖 AI
+- [Gemini](https://gemini.google.com/app) - fast and powerful ai tool by google
 - [PentestGPT](https://pentestgpt.ai) - Helps with hacking
 - [Sora](https://sora.com) – Powerful image generator
 
