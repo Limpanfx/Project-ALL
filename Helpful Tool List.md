@@ -48,6 +48,7 @@
 ## 🤖 AI 
 - [Gemini](https://gemini.google.com/app) - fast and powerful ai tool by google
 - [ZeroGPT](https://www.zerogpt.com) - Detect AI written text
+- [WriteHuman](https://writehuman.ai) - Humanize AI written text
 - [PentestGPT](https://pentestgpt.ai) - Helps with hacking
 - [Sora](https://sora.com) – Powerful image generator
 
