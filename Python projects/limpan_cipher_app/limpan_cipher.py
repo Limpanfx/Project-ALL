@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 """
 Limpan Cipher - A custom encoder/decoder inspired by the name "Limpan"
 This module provides functions to encode English text to Limpan code and decode it back.
@@ -9,16 +7,11 @@ import argparse
 import re
 import sys
 
-# Define the rules for the Limpan-inspired language
-# The rules are designed to create a unique coded language with patterns
-# inspired by the letters in "LIMPAN"
-
 class LimpanCipher:
     """
     A class that implements the Limpan cipher for encoding and decoding text.
     """
-    
-    # Vowel substitution map
+
     VOWEL_MAP = {
         'a': 'im', 
         'e': 'pa',
@@ -32,15 +25,12 @@ class LimpanCipher:
         'U': 'Nu'
     }
     
-    # Reverse vowel map for decoding
     REVERSE_VOWEL_MAP = {v: k for k, v in VOWEL_MAP.items()}
     
-    # Consonant transformation rules
     @staticmethod
     def transform_consonant(char):
         """Transform a consonant according to Limpan rules."""
         if char.isalpha():
-            # Add 'an' after lowercase consonants, 'An' after uppercase
             suffix = 'an' if char.islower() else 'An'
             return char + suffix
         return char
@@ -71,13 +61,10 @@ class LimpanCipher:
         while i < len(text):
             char = text[i]
             
-            # Handle vowels
             if char.lower() in 'aeiou':
                 result.append(cls.VOWEL_MAP[char])
-            # Handle consonants (only letters)
             elif char.isalpha():
                 result.append(cls.transform_consonant(char))
-            # Keep non-alphabetic characters as they are
             else:
                 result.append(char)
             i += 1
@@ -97,17 +84,13 @@ class LimpanCipher:
         """
         if not text:
             return ""
-        
-        # First handle consonants with 'an' suffix
         result = []
         i = 0
         while i < len(text):
-            # Check if the current position starts a possible consonant pattern
             if i <= len(text) - 3 and cls.is_limpan_consonant(text[i:i+3]):
-                result.append(text[i])  # Add just the consonant
-                i += 3  # Skip the 'an' or 'An' suffix
+                result.append(text[i])  
+                i += 3  
             else:
-                # Check if we have a vowel pattern at the current position
                 vowel_found = False
                 for limpan_vowel, english_vowel in cls.REVERSE_VOWEL_MAP.items():
                     if i <= len(text) - len(limpan_vowel) and text[i:i+len(limpan_vowel)] == limpan_vowel:
@@ -115,8 +98,6 @@ class LimpanCipher:
                         i += len(limpan_vowel)
                         vowel_found = True
                         break
-                
-                # If no vowel pattern found, add the character as is
                 if not vowel_found:
                     result.append(text[i])
                     i += 1
@@ -132,19 +113,15 @@ def main():
     parser.add_argument('text', nargs='?', help='Text to encode/decode (if not provided, reads from stdin)')
     
     args = parser.parse_args()
-    
-    # Get input text from argument or stdin
     if args.text:
         input_text = args.text
     else:
         print(f"Enter text to {args.mode} (press Ctrl+D when done):", file=sys.stderr)
         input_text = sys.stdin.read().strip()
-    
-    # Process based on mode
     if args.mode == 'encode':
         result = LimpanCipher.encode(input_text)
         print(f"Encoded Limpan text: {result}")
-    else:  # decode
+    else: 
         result = LimpanCipher.decode(input_text)
         print(f"Decoded English text: {result}")
 
