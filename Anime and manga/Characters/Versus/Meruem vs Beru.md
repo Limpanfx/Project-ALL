@@ -46,4 +46,4 @@ This comparison focuses on Meruem (post-nuke) and Beru in his living form (befor
 * Around dragon level (opm system)
 
 ## Who Would Win?
-Meruem (Hunter x Hunter)
+**Meruem (Hunter x Hunter)**
