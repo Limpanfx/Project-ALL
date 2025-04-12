@@ -4,4 +4,4 @@
 
 - *A file can also include a .md file if more information regarding the project is needed.*
 
-- Websites can be hosted through [ngrok](https://dashboard.ngrok.com/get-started/setup/windows)
+- *Simple http sites can be hosted through [ngrok](https://dashboard.ngrok.com/get-started/setup/windows)*
