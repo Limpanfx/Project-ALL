@@ -11,8 +11,7 @@
 ## Assassin Skills:
 * Master of stealth, assassination techniques, and hand-to-hand combat.
   
-## One-Punch Man Threat Level:
-### Dragon Level:
+## Classification: **Dragon-Level Threat**
 - Reasoning: His immense Nen potential and Zoldyck assassin skills place him far above most threats.
 - While his feats are limited, the respect he commands from powerful characters in the series communicates great strength.
 - It is possible that with more information, Maha could be considered a God level threat. But with the information that is currently present, Dragon level is most accurate.
