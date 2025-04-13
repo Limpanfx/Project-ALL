@@ -23,5 +23,5 @@ Now, imagine “Character” suddenly appeared in the world of One-Punch Man and
 Please explain why you think they would fit that level. Use the evidence from their powers and stats  to back up your answer.
 
 Text:
-Please use as little text as possible, I want a deep analysis and not an essay.
+Please use as little text as possible, I want a deep analysis and not an essay. Make sure it is written like a .md file.
 ```
