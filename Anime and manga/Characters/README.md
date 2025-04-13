@@ -10,7 +10,7 @@
 Character: [Insert Character Name Here]
 Anime/Manga/Source: [Insert Anime/Manga/Source Here]
 Power Analysis:
-Please tell me about all their amazing powers, abilities and stats. Give me examples from the anime, manga, or original source to show just how powerful they are. For the most powerful  powers “Character” has, try to find specific scenes or moments that prove how strong they really are, also add a calculation in TNT if possible. If “Character” has specific attributes that stick out like intelligence, please include such attributes as well.
+Please tell me about all their amazing powers, abilities and stats. Give me examples from the anime, manga, or original source to show just how powerful they are. Do NOT add "evidence:" or similar to your showcase, instead add "as stated in-". For the most powerful powers “Character” has, try to find specific scenes or moments that prove how strong they really are, also add a calculation in TNT if possible. If “Character” has specific attributes that stick out like intelligence, please include such attributes as well.
 
 Example:
 “
