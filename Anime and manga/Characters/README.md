@@ -15,7 +15,10 @@
 *Generally I will avoid AI usage, but if I do use any I will strictly follow this prompt:*
 ```
 Character: [Insert Character Name Here]
+(this character will now only be strictly mentioned as "Character", but keep in mind that this is the character I am referring to when mentioning "Character").
 Anime/Manga/Source: [Insert Anime/Manga/Source Here]
+(to not confuse with a different character that has the same name, "Character" is originally from this source of content).
+
 Power Analysis:
 Please tell me about all their amazing powers, abilities and stats. Give me examples from the anime, manga, or original source to show just how powerful they are. Do NOT add "evidence:" or similar to your showcase what chapter, timestamp or location in the source the information is gathered from, instead mention the situation (eg. "Neferpitou compares his new aura to equal value of the king's" as evidence). For the most powerful powers “Character” has, try to find specific scenes or moments that prove how strong they really are, also add a calculation of TNT power if possible. If “Character” has specific attributes that stick out like intelligence, please include such attributes as well.
 
