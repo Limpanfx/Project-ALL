@@ -14,72 +14,77 @@
 # AI usage:
 *Generally I will avoid AI usage, but if I do use any I will strictly follow this updating prompt:*
 ```
-Character: [Insert Character Name Here]
+Character Name: [Insert Character Name Here]
 Anime/Manga/Source: [Insert Anime/Manga/Source Here]
 
-Character: (this character will now only be strictly mentioned as "Character", but keep in mind that this is the character I am referring to when mentioning "Character").
-Anime/Manga/Source: (to not confuse with a different character that has the same name, "Character" is originally from this source of content).
+Task Instructions:
+Powers, Abilities, and Stats
 
-Power Analysis:
-Please tell me about all their amazing powers, abilities and stats. Give me examples from the anime, manga, or original source to show just how powerful they are. Do NOT add "evidence:" or similar to your showcase what chapter, timestamp or location in the source the information is gathered from, instead mention the situation (eg. "Neferpitou compares his new aura to equal value of the king's" as evidence). For the most powerful powers “Character” has, try to find specific scenes or moments that prove how strong they really are, also add a calculation of TNT power if possible. If “Character” has specific attributes that stick out like intelligence, please include such attributes as well.
+Provide a detailed breakdown of the character’s powers and abilities.
 
-Example:
-“
-[Power 1]: [Explanation and evidence]
-[Power 2]: [Explanation and evidence]
-[Power 3]: [Explanation and evidence]
-“
+For each power, include a brief explanation of how it works and how it showcases their strength.
+
+Include real examples from the anime, manga, or original source that demonstrate the use of these powers.
+
+If applicable, calculate the character’s TNT power or equivalent, based on specific feats (e.g., city destruction, combat power).
+
+If the character has specific attributes like intelligence, explain those as well.
 
 One-Punch Man Threat Level:
-Now, imagine “Character” suddenly appeared in the world of One-Punch Man and wanted to cause trouble! Based on their powers, what threat level would the Hero Association give them? Would they be a Wolf, Tiger, Demon, Dragon, or God level threat?
 
-Explanations:
-“
-Wolf: Any potential threat that poses a danger to an unknown degree.
-Tiger: Any threat to a large number of people.
-Demon: Any threat to a city and its people.
-Dragon: Any threat to multiple cities.
-God: A threat endangering the survival of humanity in general.
-“
+Imagine the character appeared in the world of One-Punch Man trying to cause as much harm as possible. What threat level would the Hero Association assign them?
 
-Please explain why you think that threat level suits them without over- or underestimating their capabilities. To avoid over- or underestimating their capabilities please compare this character to enemies in the one punch man universe without mentioning anything about the comparison within the output text. Use the evidence from their powers and stats to back up your answer. Follow the format below when writing about this.
+Choose from the following threat levels: Wolf, Tiger, Demon, Dragon, God.
 
-Threat level format:
-“
-## Classification: **Dragon-Level Threat**
-- Reasoning: [Explanation and evidence]
-- Limitations: [Explanation and evidence]
-- Considerations: [Explanation and evidence]
-“
+Wolf: Unknown degree of threat.
 
-Do not seperate like this:
-“
-## One-Punch Man Threat Level
+Tiger: Threat to a large number of people.
 
-### Classification: **Dragon-Level Threat**
-“
+Demon: Threat to a city and its people.
 
-Text output:
-Please use as little text as possible, I want a deep analysis and not an essay. Return the output as raw markdown text that is copy-paste ready, with no extra formatting or explanations. Keep in mind that this is only a model/prompt for multiple characters. So if one of these requirements can't be met using "Character", skip it. Do not include any -'s or similar to seperate. Instead indicate text parts by # function in .md files. Do not overcomplicate things, instead keep it relatively short much like the upcoming formatting example. In the text, do NOT refer to the character as character instead use the name selected in "Character". "Character" is ONLY to refrence the selected character.
+Dragon: Threat to multiple cities.
 
-Here's an example of great formatting:
-“
-# Lelouch vi Britannia (Code Geass)
+God: Threat endangering the survival of humanity.
+
+Threat Level Explanation:
+
+Provide an explanation for why you assigned the character that specific threat level.
+
+Compare their powers and stats to other characters in the One-Punch Man universe without naming them explicitly.
+
+Detail their limitations, vulnerabilities, or weaknesses if applicable.
+
+Consider any additional factors like intelligence or tactical ability that influence their threat level.
+
+General text instructions (very important output instructions):
+Please provide the response in raw markdown format.
+
+Return the output as a .md file.
+
+Do not overcomplicate things, instead keep it relatively short much like the upcoming formatting example.
+
+Format:
+# [Character Name] ([Anime/Manga/Source Name])
 
 ## Powers, Abilities, and Stats
 
-**[Power 1]: Geass - "The Power of Absolute Obedience"**  
-- Can issue a single, irresistible command to any individual via eye contact.    
-- Controlled entire armies and nations by targeting key individuals (e.g., ordering guards to kill themselves, generals to change strategies).  
-- Instant mental domination, cannot be resisted once eye contact is made, even by trained or strong-willed individuals.  
+**[Power 1]: [Power Name]**  
+- [Explanation of the power and how it functions.]  
+- [Examples from the anime, manga, or original source where the power is used to demonstrate its strength.]
 
-**[Power 4]: Political Control Over Superweapons**  
-- Gained access to the F.L.E.I.J.A. warhead, capable of vaporizing entire cities (estimated yield: 25-50 kilotons TNT).  
-- Used F.L.E.I.J.A. to force global superpowers to surrender or align with his new world order.  
+**[Power 2]: [Power Name]**  
+- [Explanation of the power and how it functions.]  
+- [Examples from the anime, manga, or original source where the power is used to demonstrate its strength.]
 
-### Classification: **Dragon-Level Threat**
-- **Reasoning**: Lelouch’s Geass allows for instant control over anyone with eye contact, including heroes and S-Class threats. His tactical mind could manipulate entire factions into civil war or turn heroes against each other.
-- **Limitations**: Geass only works once per person, and requires direct eye contact. He is physically weak and vulnerable without strategic preparation.
-- **Considerations**: While not physically strong, Lelouch could become a God-level threat if given time and resources to influence world politics, gain superweapons, or manipulate S-Class heroes from the shadows.
-“
+**[Power 3]: [Power Name]**  
+- [Explanation of the power and how it functions.]  
+- [Examples from the anime, manga, or original source where the power is used to demonstrate its strength.]
+
+## One-Punch Man Threat Level
+
+### Classification: **[Threat Level]**
+
+- **Reasoning**: [Explain why this character would fall under this threat level based on their powers, abilities, and feats from the original source.]
+- **Limitations**: [Explain any weaknesses or limitations of the character.]
+- **Considerations**: [Provide any additional relevant factors like intelligence or other traits that influence their threat level.]
 ```
