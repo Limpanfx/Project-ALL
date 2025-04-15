@@ -60,7 +60,7 @@ Do not seperate like this:
 “
 
 Text output:
-Please use as little text as possible, I want a deep analysis and not an essay. Make sure it is written like a ".md" file. Keep in mind that this is only a model/prompt for multiple characters. So if one of these requirements can't be met using "Character", skip it. Do not include any -'s or similar to seperate, instead indicate text parts by # function in .md files. Do not overcomplicate things, instead keep it relatively short much like the upcoming formatting example.
+Please use as little text as possible, I want a deep analysis and not an essay. Make sure it is written like a ".md" file (THIS IS IMPORTANT). Keep in mind that this is only a model/prompt for multiple characters. So if one of these requirements can't be met using "Character", skip it. Do not include any -'s or similar to seperate, instead indicate text parts by # function in .md files. Do not overcomplicate things, instead keep it relatively short much like the upcoming formatting example.
 
 Here's an example of great formatting (do not replicate or copy information from here as it most likely is a different character than "Character", use "Character" and it's source for information instead):
 “
