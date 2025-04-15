@@ -5,11 +5,11 @@
 * Attempts to provide TNT calculations for destructive feats when possible.
 
 One punch man [threat levels](https://onepunchman.fandom.com/wiki/Category:Disaster_levels):
-Wolf: Any potential threat that poses a danger to an unknown degree.
-Tiger: Any threat to a large number of people.
-Demon: Any threat to a city and its people.
-Dragon: Any threat to multiple cities.
-God: A threat endangering the survival of humanity in general.
+- Wolf: Any potential threat that poses a danger to an unknown degree.
+- Tiger: Any threat to a large number of people.
+- Demon: Any threat to a city and its people.
+- Dragon: Any threat to multiple cities.
+- God: A threat endangering the survival of humanity in general.
 
 ### AI usage:
 *Generally I will avoid AI usage, but if I do use any I will strictly follow this prompt:*
