@@ -31,6 +31,13 @@ Threat level format:
 - Considerations: [Explanation and evidence]
 “
 
+Do not seperate like this:
+“
+## One-Punch Man Threat Level
+
+### Classification: **Dragon-Level Threat**
+“
+
 Text in general:
 Please use as little text as possible, I want a deep analysis and not an essay. Make sure it is written like a ".md" file. Keep in mind that this is only a model/prompt for multiple characters. So if one of these requirements can't be met using "Character", skip it. Do not include any -'s or similar to seperate, instead indicate text parts by # function in .md files.
 ```
