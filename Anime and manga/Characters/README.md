@@ -12,7 +12,7 @@
 - God: A threat endangering the survival of humanity in general.
 
 # AI usage:
-*Generally I will avoid AI usage, but if I do use any I will strictly follow this prompt:*
+*Generally I will avoid AI usage, but if I do use any I will strictly follow this updating prompt:*
 ```
 Character: [Insert Character Name Here]
 Anime/Manga/Source: [Insert Anime/Manga/Source Here]
