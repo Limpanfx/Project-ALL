@@ -11,8 +11,6 @@
 - Gained access to the F.L.E.I.J.A. warhead, capable of vaporizing entire cities (estimated yield: 25-50 kilotons TNT).  
 - Used F.L.E.I.J.A. to force global superpowers to surrender or align with his new world order.  
 
-## One-Punch Man Threat Level
-
 ### Classification: **Dragon-Level Threat**
 - **Reasoning**: Lelouch’s Geass allows for instant control over anyone with eye contact, including heroes and S-Class threats. His tactical mind could manipulate entire factions into civil war or turn heroes against each other.
 - **Limitations**: Geass only works once per person, and requires direct eye contact. He is physically weak and vulnerable without strategic preparation.
