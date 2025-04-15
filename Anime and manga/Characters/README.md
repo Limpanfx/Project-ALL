@@ -31,8 +31,18 @@ Example:
 “
 
 One-Punch Man Threat Level:
-Now, imagine “Character” suddenly appeared in the world of One-Punch Man and wanted to cause trouble! Based on their powers, what threat level would the Hero Association give them? Would they be a Wolf, Tiger, Demon, Dragon, or even God level threat?
-Please explain why you think they would fit that level. Use the evidence from their powers and stats to back up your answer. Follow the format below when writing about this.
+Now, imagine “Character” suddenly appeared in the world of One-Punch Man and wanted to cause trouble! Based on their powers, what threat level would the Hero Association give them? Would they be a Wolf, Tiger, Demon, Dragon, or God level threat?
+
+Explanations:
+“
+Wolf: Any potential threat that poses a danger to an unknown degree.
+Tiger: Any threat to a large number of people.
+Demon: Any threat to a city and its people.
+Dragon: Any threat to multiple cities.
+God: A threat endangering the survival of humanity in general.
+“
+
+Please explain why you think that threat level suits them without over- or underestimating their capabilities. To avoid over- or underestimating their capabilities please compare this character to enemies in the one punch man universe without mentioning anything about the comparison within the output text. Use the evidence from their powers and stats to back up your answer. Follow the format below when writing about this.
 
 Threat level format:
 “
@@ -49,7 +59,7 @@ Do not seperate like this:
 ### Classification: **Dragon-Level Threat**
 “
 
-Text in general:
+Text output:
 Please use as little text as possible, I want a deep analysis and not an essay. Make sure it is written like a ".md" file. Keep in mind that this is only a model/prompt for multiple characters. So if one of these requirements can't be met using "Character", skip it. Do not include any -'s or similar to seperate, instead indicate text parts by # function in .md files.
 
 Here's an example of great formatting (do not replicate or copy information from here as it most likely is a different character than "Character", use "Character" and it's source for information instead):
