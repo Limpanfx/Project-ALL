@@ -1,10 +1,10 @@
 # Information regarding coding in C#
 
-##General:
+## General:
 - Files end in (.cs)
 
 
-##Base:
+## Base:
 ```
 using System; // Allows you to use basic C# features like Console.
 
