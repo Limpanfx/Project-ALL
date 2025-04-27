@@ -26,3 +26,11 @@ if (20 > 18)
   Console.WriteLine("20 is greater than 18");
 }
 ```
+
+## Array:
+```
+string[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+// or
+// int[] myNum = {10, 20, 30, 40};
+// if it's an integer
+```
