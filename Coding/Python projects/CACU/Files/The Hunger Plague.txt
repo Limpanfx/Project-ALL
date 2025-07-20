@@ -1,0 +1,10 @@
+CACU file 3 
+
+Entity Designation Index (EDI)
+D-Ψ002
+
+Disease Classification Tier (DCT)
+Black
+
+Containment Status
+Positive

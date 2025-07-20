@@ -1,0 +1,28 @@
+CACU file 4
+
+Entity Designation Index (EDI)
+E-Ψ001
+
+Entity Priority Index (EPI)
+3
+
+Personal Threat Index (PTI)
+8
+
+Cosmatora Impact Index (CII)
+2
+
+Habitat Range
+Khan-No, Belighted Caves, Northern Frozen Mountains
+
+Activity Cycle
+24/24
+
+Sentience Grade
+Unknown 
+
+Visibility Class
+Positive
+
+Containment Status
+Negative

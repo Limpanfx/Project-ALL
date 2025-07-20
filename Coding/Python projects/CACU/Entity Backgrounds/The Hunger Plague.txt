@@ -1,0 +1,24 @@
+Infection Type: Inhalation, ingestion, blood injection, contact
+Infection Range: Humans, cats, dogs, bunnies, horses, cows, bulls
+Infection time: 20 seconds (average adult human); varies by species size
+Symptoms: Immediate behavioral alteration
+
+The origin of the Hunger Plague remains unknown. Patient zero has never been identified. No known natural ecosystems contain the viral compound, leading some within the Cosmatora Archived Compilation Unit (CACU) to theorize it is engineered, possibly of subnatural entity origin.
+
+Phase 1: Natural Consumption
+The hypothalamus within the host receives false-positive hunger signals at maximum intensity
+
+Victim becomes confused and begins rapidly consuming anything within reach, for instance: food, dirt, cloth, paper.
+(Conscious resistance is overridden)
+
+Phase 2: Hostile Consumption
+Victim aggressively attacks and consumes nearby organisms including human beings.
+
+Phase 3: Auto-Consumption
+With no external sources remaining, the victim begins eating their own flesh
+
+Victims remain conscious until brain trauma, blood loss, or shock causes death (10–20 minutes post-infection)
+
+The virus is fast spreading and air-born. It remains as a black tier infection in the archives and any contact is strictly prohibited and will end in immediate execution.
+
+“Under no circumstance should samples be released. Its spreading could mean the end of humanity.”

@@ -1,0 +1,28 @@
+CACU file 1
+
+Entity Designation Index (EDI)
+E-Λ003
+
+Entity Priority Index (EPI)
+2
+
+Personal Threat Index (PTI)
+11
+
+Cosmatora Impact Index (CII)
+1
+
+Habitat Range
+Bamboo forests of southwest
+
+Activity Cycle
+0-10/24
+
+Sentience Grade
+Estimated 100 IQ
+
+Visibility Class
+Positive
+
+Containment Status
+Negative

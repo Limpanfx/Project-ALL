@@ -1,0 +1,28 @@
+CACU file 5
+
+Entity Designation Index (EDI)
+Е-Г005
+
+Entity Priority Index (EPI)
+2
+
+Personal Threat Index (PTI)
+2
+
+Cosmatora Impact Index (CII)
+0
+
+Habitat Range
+Frozen Point Lake Village, Northwest
+
+Activity Cycle
+Unknown
+
+Sentience Grade
+Unknown 
+
+Visibility Class
+Positive
+
+Containment Status
+Negative

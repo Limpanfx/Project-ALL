@@ -1,0 +1,28 @@
+CACU file 6
+
+Entity Designation Index (EDI)
+E-Θ006
+
+Entity Priority Index (EPI)
+0 
+
+Personal Threat Index (PTI)
+13
+
+Cosmatora Impact Index (CII)
+1
+
+Habitat Range
+Everywhere
+
+Activity Cycle
+24/24
+
+Sentience Grade
+Estimated 20 IQ
+
+Visibility Class
+Positive
+
+Containment Status
+Positive

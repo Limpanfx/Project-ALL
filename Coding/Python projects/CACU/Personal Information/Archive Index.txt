@@ -1,0 +1,50 @@
+CACU Entity Index
+
+Designation
+Official CACU ID.
+
+E = entity
+D = disease
+P = phenomenon 
+
+Ψ = psychologically manipulating 
+Γ = physically manipulating
+Λ = mutation of something else
+Ω = one time, irreversible consequences
+Θ = immortality 
+Π = recurring phenomena
+Σ = technological/robots
+
+Entity Priority Index (EPI)
+Urgency of containment or elimination or containment.
+Scale: 0–15
+
+Personal Threat Index (PTI)
+Threat level to an individual human or sentient being.
+Scale: 0–15
+
+Cosmatora Impact Index (CII)
+Potential impact on the Cosmatora environment or society as a whole.
+Scale: 0–15
+
+Habitat Range
+Primary geographic or environmental location.
+
+Activity Cycle
+When the entity is active (time-based or condition-based).
+
+Sentience Grade
+Intelligence level or cognitive complexity.
+
+Visibility Class
+Degree to which the entity can be perceived by standard observation.
+
+Containment Status
+Current CACU control level or state.
+
+---
+CACU Disease Index
+
+Disease Classification Tier (DCT)
+Severity level for viral or parasitic agents.
+Scale: White → Grey → Red → Black → Void 
